@@ -13,8 +13,9 @@ $km=1;
   <p>
     <?=$km;?>
   </p>
+  <!-- intégration d'un paragraphe avec les chiffres demandés -->
   <p>
-    <?=$km+2;?>
+    <?=3;?>
   </p>
   <p>
     <?=125;?>
