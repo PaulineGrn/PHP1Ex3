@@ -1,3 +1,4 @@
+<!-- Déclaration de la variable kilomètre avec une valeure -->
 <?php
 $km=1;
 ?>
@@ -8,6 +9,7 @@ $km=1;
   <title>PHP1Ex3</title>
 </head>
 <body>
+  <!-- Déclaration de paragraphes et de la variable kilomètre -->
   <p>
     <?=$km;?>
   </p>
